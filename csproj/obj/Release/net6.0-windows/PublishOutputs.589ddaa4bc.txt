@@ -1,0 +1,13 @@
+C:\Users\adriatic\Desktop\新建文件夹\csproj.exe
+C:\Users\adriatic\Desktop\新建文件夹\csproj.dll
+C:\Users\adriatic\Desktop\新建文件夹\csproj.deps.json
+C:\Users\adriatic\Desktop\新建文件夹\csproj.runtimeconfig.json
+C:\Users\adriatic\Desktop\新建文件夹\csproj.pdb
+C:\Users\adriatic\Desktop\新建文件夹\BouncyCastle.Crypto.dll
+C:\Users\adriatic\Desktop\新建文件夹\Google.Protobuf.dll
+C:\Users\adriatic\Desktop\新建文件夹\K4os.Compression.LZ4.dll
+C:\Users\adriatic\Desktop\新建文件夹\K4os.Compression.LZ4.Streams.dll
+C:\Users\adriatic\Desktop\新建文件夹\K4os.Hash.xxHash.dll
+C:\Users\adriatic\Desktop\新建文件夹\MySql.Data.dll
+C:\Users\adriatic\Desktop\新建文件夹\Ubiety.Dns.Core.dll
+C:\Users\adriatic\Desktop\新建文件夹\ZstdNet.dll

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\adriatic\Desktop\csproj\csproj\csproj\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="eapplychk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="main2e.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="main2p.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="papplychk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="requestview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="resquestpublish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="resume.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
